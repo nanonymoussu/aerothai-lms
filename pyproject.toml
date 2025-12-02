@@ -1,0 +1,10 @@
+[project]
+name = "aerothai-lms"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = ["beautifulsoup4>=4.14.3", "requests>=2.32.5"]
+
+[tool.ruff]
+line-length = 100
