@@ -40,7 +40,7 @@ aerothai-lms/
 ## --- CONFIGURATIONS ---
 USERNAME = "your_username"  # <-- ใส่รหัสพนักงาน/Username
 PASSWORD = "your_password"  # <-- ใส่รหัสผ่าน
-BASE_URL = "[https://lms.aerothai.co.th](https://lms.aerothai.co.th)"
+BASE_URL = "https://lms.aerothai.co.th"
 ```
 
 ## 🚀 วิธีการใช้งาน (Usage)
