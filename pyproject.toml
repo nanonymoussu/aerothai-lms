@@ -1,7 +1,7 @@
 [project]
 name = "aerothai-lms"
 version = "0.1.0"
-description = "Add your description here"
+description = "Automated Python script to update learning progress to 100% on AEROTHAI LMS. Features auto-login, video metadata scraping, and custom duration handling via CLI."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = ["beautifulsoup4>=4.14.3", "requests>=2.32.5"]
