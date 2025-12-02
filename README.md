@@ -15,13 +15,13 @@ Script สำหรับช่วยจัดการและอัปเด�
 1. Clone โปรเจคลงเครื่อง
 
     ```bash
-    git clone https://github.com/nanonymoussu/aerothai-hack.git
+    git clone https://github.com/nanonymoussu/aerothai-lms.git
     ```
 
 2. เข้าไปยังโฟลเดอร์โปรเจค
 
     ```bash
-    cd aerothai-hack
+    cd aerothai-lms
     ```
 
 ## 🛠️ โครงสร้างโปรเจกต์ (Project Structure)
